@@ -1,0 +1,27 @@
+
+body{
+    background-image: url(hatter.jpg);
+    background-attachment: fixed;
+    background-position: cover;
+}
+.container
+{
+    margin-top: 60px;
+    width: 500px;
+}
+#ingatlanok-lista
+{
+    background-position: cover;
+    background-attachment: fixed;
+    border: 5px black solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 10px; 
+    color: white;
+    padding: 50px;
+
+    
+}
+#uj
+{
+    color: white;
+}

@@ -1,0 +1,22 @@
+{
+  "ingatlanok": [
+    {
+      "Elhelyezkedese": "Nógrád megye",
+      "ara": "10000000",
+      "Parkolas": true,
+      "id": 1
+    },
+    {
+      "Elhelyezkedese": "as",
+      "ara": "23121313",
+      "Parkolas": false,
+      "id": 2
+    },
+    {
+      "Elhelyezkedese": "dsadasd",
+      "ara": "32432423423",
+      "Parkolas": false,
+      "id": 3
+    }
+  ]
+}
